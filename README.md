@@ -32,8 +32,8 @@ part of a Kaggle competition.
 3. Fine-tune model and export predictions
 
 ## Results
-- **ResNet50**: AUC = 0.8646 (after fine-tuning)
-- **InceptionV3**: AUC = 0.9165 (no fine-tuning applied)
+- ResNet50: AUC = 0.8646 (after fine-tuning)
+- InceptionV3: AUC = 0.9165 (no fine-tuning applied)
 - InceptionV3 outperformed ResNet50 in this instance, even without additional tuning.
 
 
